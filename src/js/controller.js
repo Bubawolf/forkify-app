@@ -11,6 +11,7 @@ import 'core-js/stable';
 import 'regenerator-runtime';
 import Fraction from 'fractional';
 
+console.log('Welcome Ivancho');
 ///////////////////////////////////////
 /*
 if (module.hot) {
